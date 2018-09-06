@@ -20,7 +20,7 @@ ms.author: jdial
 ---
 
 # Virtual network integration for Azure services
-
+ 
 Integrating Azure services to an Azure virtual network allows private access from instances of a service deployed in the virtual network.
 
 You can integrate Azure services with your virtual network with the following options:
